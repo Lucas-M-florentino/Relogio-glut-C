@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1615852278 source:d:\documentos\ufgd\compgrafica\relogiolucas2020\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1615835052 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1615835052 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
